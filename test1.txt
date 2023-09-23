@@ -1,6 +1,3 @@
 I am Sohel Rana
-I have done my ssc on 2022
-I am on my way
-to the destitait
-I have finished my M.Sc. in 200016
-logo alignment is centered
+I am a programmer.
+I have learned it since 2022
