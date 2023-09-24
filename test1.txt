@@ -3,5 +3,9 @@ I am a programmer.
 I have learned it since 2022
 I am a gray hat hacker
 But its hard to learn.
+
 I am trying.
 and trying very well
+=======
+I am learning very well
+
