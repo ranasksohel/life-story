@@ -15,3 +15,4 @@ I am learning very well
 
 >>>>>>> b3da73e176ab2e9370630f4c916ba8559c566b45
 logo aligment is centered.
+thisis deep learning information.
