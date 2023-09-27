@@ -4,15 +4,4 @@ I have learned it since 2022
 I am a gray hat hacker
 But its hard to learn.
 
-I am trying.
-and trying very well
-<<<<<<< HEAD
-
-I will Join at Mfile  1st of December
-=======
-=======
-I am learning very well
-
->>>>>>> b3da73e176ab2e9370630f4c916ba8559c566b45
-logo aligment is centered.
-thisis deep learning information.
+this text is added from main branch
